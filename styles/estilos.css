@@ -2,7 +2,7 @@ header{
     align-items: center;
     display: flex;
     justify-content: space-between;
-    background-color: red;
+    background-color:rgb(78, 131, 243);
     
   
      
@@ -42,7 +42,7 @@ nav ul li a{
 
 footer {
     display: flex;
-    background-color: red;
+    background-color:rgb(78, 131, 243);
     justify-content: space-between;
 }
 footer p{
