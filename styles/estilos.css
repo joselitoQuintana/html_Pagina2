@@ -1,0 +1,55 @@
+header{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    
+  
+     
+}
+
+ 
+
+  strong a{
+     
+    text-decoration: none;
+    margin-left: 15px;color: white;
+   
+    
+
+      
+}
+ 
+nav ul{
+    display: flex;
+    list-style: none;
+     
+    
+
+}
+nav ul li{
+     
+     
+    text-decoration: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+     margin: 25px;color: white;
+     
+     
+}
+
+footer {
+    display: flex;
+    background-color: red;
+    justify-content: space-between;
+}
+footer p{
+    margin-right: 5px;
+    margin-left: 5px;
+    color: white;
+}
+
+
+ 
