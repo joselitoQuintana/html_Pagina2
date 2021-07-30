@@ -53,4 +53,27 @@ footer p{
 }
 
 
- 
+.row{
+    display: flex;
+     
+    flex-wrap: wrap;
+
+}
+.row-2{
+
+    display: flex;
+}
+.parte-1{
+    flex: 30px;
+    
+}
+.parte-1 figure img{
+    background-color: red;
+    width: 500px; 
+    height: 300px;
+    
+}
+
+.parte-2{
+    flex:70px;
+}
